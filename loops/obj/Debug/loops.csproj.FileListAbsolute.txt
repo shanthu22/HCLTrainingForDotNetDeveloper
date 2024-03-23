@@ -1,0 +1,7 @@
+D:\.NETCode\1\myproject1\loops\bin\Debug\loops.exe.config
+D:\.NETCode\1\myproject1\loops\bin\Debug\loops.exe
+D:\.NETCode\1\myproject1\loops\bin\Debug\loops.pdb
+D:\.NETCode\1\myproject1\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+D:\.NETCode\1\myproject1\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+D:\.NETCode\1\myproject1\loops\obj\Debug\loops.exe
+D:\.NETCode\1\myproject1\loops\obj\Debug\loops.pdb

@@ -1,0 +1,7 @@
+D:\.NETCode\1\myproject1\myproject1\bin\Debug\myproject1.exe.config
+D:\.NETCode\1\myproject1\myproject1\bin\Debug\myproject1.exe
+D:\.NETCode\1\myproject1\myproject1\bin\Debug\myproject1.pdb
+D:\.NETCode\1\myproject1\myproject1\obj\Debug\myproject1.csproj.AssemblyReference.cache
+D:\.NETCode\1\myproject1\myproject1\obj\Debug\myproject1.csproj.CoreCompileInputs.cache
+D:\.NETCode\1\myproject1\myproject1\obj\Debug\myproject1.exe
+D:\.NETCode\1\myproject1\myproject1\obj\Debug\myproject1.pdb
