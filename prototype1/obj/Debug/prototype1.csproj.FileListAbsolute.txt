@@ -1,0 +1,7 @@
+D:\.NETCode\1\myproject1\prototype1\bin\Debug\prototype1.exe.config
+D:\.NETCode\1\myproject1\prototype1\bin\Debug\prototype1.exe
+D:\.NETCode\1\myproject1\prototype1\bin\Debug\prototype1.pdb
+D:\.NETCode\1\myproject1\prototype1\obj\Debug\prototype1.csproj.AssemblyReference.cache
+D:\.NETCode\1\myproject1\prototype1\obj\Debug\prototype1.csproj.CoreCompileInputs.cache
+D:\.NETCode\1\myproject1\prototype1\obj\Debug\prototype1.exe
+D:\.NETCode\1\myproject1\prototype1\obj\Debug\prototype1.pdb
