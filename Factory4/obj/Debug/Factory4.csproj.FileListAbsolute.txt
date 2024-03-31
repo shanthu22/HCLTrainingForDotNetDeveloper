@@ -1,0 +1,7 @@
+D:\.NETCode\1\myproject1\Factory4\bin\Debug\Factory4.exe.config
+D:\.NETCode\1\myproject1\Factory4\bin\Debug\Factory4.exe
+D:\.NETCode\1\myproject1\Factory4\bin\Debug\Factory4.pdb
+D:\.NETCode\1\myproject1\Factory4\obj\Debug\Factory4.csproj.AssemblyReference.cache
+D:\.NETCode\1\myproject1\Factory4\obj\Debug\Factory4.csproj.CoreCompileInputs.cache
+D:\.NETCode\1\myproject1\Factory4\obj\Debug\Factory4.exe
+D:\.NETCode\1\myproject1\Factory4\obj\Debug\Factory4.pdb

@@ -1,0 +1,7 @@
+D:\.NETCode\1\myproject1\FactoryPractice\bin\Debug\FactoryPractice.exe.config
+D:\.NETCode\1\myproject1\FactoryPractice\bin\Debug\FactoryPractice.exe
+D:\.NETCode\1\myproject1\FactoryPractice\bin\Debug\FactoryPractice.pdb
+D:\.NETCode\1\myproject1\FactoryPractice\obj\Debug\FactoryPractice.csproj.AssemblyReference.cache
+D:\.NETCode\1\myproject1\FactoryPractice\obj\Debug\FactoryPractice.csproj.CoreCompileInputs.cache
+D:\.NETCode\1\myproject1\FactoryPractice\obj\Debug\FactoryPractice.exe
+D:\.NETCode\1\myproject1\FactoryPractice\obj\Debug\FactoryPractice.pdb

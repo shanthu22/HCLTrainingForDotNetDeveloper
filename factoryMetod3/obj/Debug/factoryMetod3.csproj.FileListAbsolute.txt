@@ -1,0 +1,7 @@
+D:\.NETCode\1\myproject1\factoryMetod3\bin\Debug\factoryMetod3.exe.config
+D:\.NETCode\1\myproject1\factoryMetod3\bin\Debug\factoryMetod3.exe
+D:\.NETCode\1\myproject1\factoryMetod3\bin\Debug\factoryMetod3.pdb
+D:\.NETCode\1\myproject1\factoryMetod3\obj\Debug\factoryMetod3.csproj.AssemblyReference.cache
+D:\.NETCode\1\myproject1\factoryMetod3\obj\Debug\factoryMetod3.csproj.CoreCompileInputs.cache
+D:\.NETCode\1\myproject1\factoryMetod3\obj\Debug\factoryMetod3.exe
+D:\.NETCode\1\myproject1\factoryMetod3\obj\Debug\factoryMetod3.pdb
